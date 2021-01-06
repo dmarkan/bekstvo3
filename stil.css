@@ -1,0 +1,66 @@
+body {
+	background:black;
+}
+
+#prvi_broj {
+	color:#00FFFF;
+	font-size:50px;
+	margin-left:1080px;
+	margin-top:-200px;
+}
+
+#drugi_broj {
+	color:#0000FF;
+	font-size:50px;
+	margin-left:565px;
+	margin-top:-630px;
+}
+
+#treci_broj {
+	color:#800000;
+	font-size:50px;
+	margin-left:930px;
+	margin-top:-140px;
+}
+
+#cetvrti_broj {
+	color:#800080;
+	font-size:50px;
+	margin-left:850px;
+	margin-top:310px;
+}
+
+#vrata {
+	margin-left:350px;
+	margin-top:-400px;
+}
+
+#ogledalo {
+	margin-left:1050px;
+	margin-top:-5px;
+}
+
+#vrata2 {
+	margin-left:200px;
+	margin-top:100px;
+}
+
+#kada {
+	margin-left:800px;
+	margin-top:300px;
+}
+
+#tus {
+	margin-left:750px;
+	margin-top:-300px;
+}
+
+#ormaric {
+	margin-left:600px;
+	margin-top:90px;
+}
+
+#lavabo {
+	margin-left:1000px;
+	margin-top:-100px;
+}
